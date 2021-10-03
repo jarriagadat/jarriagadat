@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on .
-- my personal website jaatriana.github.io
+- 🔭 I’m currently working on a Master's Degree on Civil Engineering.
+- My personal website is https://jaatriana.github.io/
 
 <!--
 **jaatriana/jaatriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
