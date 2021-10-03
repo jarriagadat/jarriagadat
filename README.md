@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Master's Degree on Civil Engineering.
+- 🔭 I’m currently working on a Master's Degree in Civil Engineering.
 - My personal website is https://jaatriana.github.io/
 
 <!--
