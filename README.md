@@ -4,6 +4,9 @@
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Part of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 
+### Links
+- https://github.com/jarriagadat/
+- https://orcid.org/0000-0002-2742-7421
 
 <!--
 
