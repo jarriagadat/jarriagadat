@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a Master's Degree in Earthquake Engineering.
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Part of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
-- 
+
 ### Work
 - 🧪 Soil Mechanics Lab at the School of Civil Engineering, UV.
 - 🌱 Cofounder of the Geomechanical and Underground Works Group, UV https://ggmosuv.github.io/
