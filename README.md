@@ -8,8 +8,9 @@
 - 🌱 Cofounder of the Geomechanical and Underground Works Group, UV https://ggmosuv.github.io/
 
 ### Links
-- https://github.com/jarriagadat/
-- https://orcid.org/0000-0002-2742-7421
+- GITBUB > https://github.com/jarriagadat/
+- ORCID > https://orcid.org/0000-0002-2742-7421
+- RESEARCHGATE > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
 
 
 
