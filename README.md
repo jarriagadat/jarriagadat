@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JetGrouting
 -->
 
-### Tools that I would recommend
+### Tools that i like to use
 + Obsidiand 
 + Espanso
 + Everything
