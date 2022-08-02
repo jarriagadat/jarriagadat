@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tools that I like to use
-+ Obsidiand 
++ Obsidian 
 + Espanso
 + Everything
 + Carnac > record keystrokes
