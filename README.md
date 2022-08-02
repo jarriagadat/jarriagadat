@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning BIM
 - 👯 I’m looking to collaborate on JetGrouting
 -->
+
+### Tools that I would recommend
++ Obsidiand 
++ Espanso
++ Everything
++ Carnac > record keystrokes
++ lightshot and sharex
++ VSCode
+
