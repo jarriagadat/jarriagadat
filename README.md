@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 + Obsidian 
 + Espanso
 + Everything
-+ Carnac > record keystrokes
++ Carnac > record keystrokes > http://code52.org/carnac/
 + lightshot and sharex
 + VSCode
 
