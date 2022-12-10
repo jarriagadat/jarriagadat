@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 -->
 
 ### Tools I like to use
-+ Obsidian 
++ Obsidian + Notion
 + Espanso
-+ Everything
++ Everything > https://www.voidtools.com/
 + Carnac > record keystrokes > http://code52.org/carnac/
 + lightshot and sharex
 + VSCode
++ Bitwarden + Authy
 
