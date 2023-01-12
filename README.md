@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JetGrouting
 -->
 
+### programming skills
++ MATLAB 🌟🌟🌟
++ JULIA 🌟🌟
++ PYTHON 🌟
+
 ### Tools I like to use
 + Obsidian + Notion
 + Espanso
