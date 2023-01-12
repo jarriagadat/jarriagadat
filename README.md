@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 -->
 
 ### programming skills
-+ MATLAB 🌟🌟🌟
-+ JULIA 🌟🌟
-+ PYTHON 🌟
++ MATLAB  🌟🌟🌟
++ JULIA   🌟🌟
++ PYTHON  🌟
 
 ### Tools I like to use
 + Obsidian + Notion
