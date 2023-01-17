@@ -3,11 +3,11 @@
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 
-### Work
+### work
 - 🧪 Soil Mechanics Lab at the School of Civil Engineering, UV.
 - 🌱 Cofounder of the Geomechanical and Underground Works Group, UV https://ggmosuv.github.io/
 
-### Links
+### links
 - GITBUB > https://github.com/jarriagadat/
 - ORCID > https://orcid.org/0000-0002-2742-7421
 - RESEARCHGATE > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 + PYTHON  🌟
 + OPENSEES  🌟
 
-### Tools I like to use
+### tools I like to use
 + Obsidian + Notion
++ VSCODE
++ $\Latex$
 + Espanso
 + Everything > https://www.voidtools.com/
 + Carnac > record keystrokes > http://code52.org/carnac/
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 + Bitwarden + Authy
 + f.lux
 
-### HARDWARE
+### hardware
 + zephyrus G14
 + logitech G604
 + LG 27QN880-B
