@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### tools I like to use
 + Obsidian + Notion
 + VSCODE
-+ $\Latex$
++ $\Latex$  $\sqrt{3x-1}+(1+x)^2$
 + Espanso
 + Everything > https://www.voidtools.com/
 + Carnac > record keystrokes > http://code52.org/carnac/
