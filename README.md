@@ -1,5 +1,5 @@
 ### Hola 👋
-- 🔭 I’m currently working on a Master's Degree in Earthquake Engineering.
+- 🔭 I’m currently working on a Master's Degree in Earthquake Engineering, USFX-UV.
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 
