@@ -4,7 +4,7 @@
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 
 ### work
-- 🧪 Soil Mechanics Lab at the School of Civil Engineering, UV.
+- 🧪 Soil Mechanics Lab at the School of Civil Engineering, UV. https://civil.uv.cl/escuela/funcionarios/2-sin-categoria/138-jorge-arriagada-triana
 - 🌱 Cofounder of the Geomechanical and Underground Works Group, UV https://ggmosuv.github.io/
 
 ### links
