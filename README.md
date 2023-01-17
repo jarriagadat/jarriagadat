@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 + MATLAB  🌟🌟🌟
 + JULIA   🌟🌟
 + PYTHON  🌟
++ OPENSEES  🌟
 
 ### Tools I like to use
 + Obsidian + Notion
