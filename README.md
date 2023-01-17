@@ -32,16 +32,17 @@ Here are some ideas to get you started:
 + OPENSEES  🌟
 
 ### tools I like to use
-+ Obsidian + Notion
++ obsidian + notion
 + VSCODE
 + $\LaTeX$
-+ Espanso
-+ Everything > https://www.voidtools.com/
-+ Carnac > record keystrokes > http://code52.org/carnac/
++ espanso
++ everything > https://www.voidtools.com/
++ carnac > record keystrokes > http://code52.org/carnac/
 + lightshot and sharex
-+ VSCode
-+ Bitwarden + Authy
++ bitwarden + authy
 + f.lux
++ brave
++ eternl
 
 ### hardware
 + zephyrus G14
