@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 + lightshot and sharex
 + VSCode
 + Bitwarden + Authy
++ f.lux
 
+### HARDWARE
++ zephyrus G14
++ logitech G604
++ LG 
