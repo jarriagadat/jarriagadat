@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 ### HARDWARE
 + zephyrus G14
 + logitech G604
-+ LG 
++ LG 27QN880-B
