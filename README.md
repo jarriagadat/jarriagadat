@@ -25,11 +25,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JetGrouting
 -->
 
+### Engineering software
++ Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA
++ Civil3D, Revit
++ ETABS, SAP2000
++ QGIS, Global Mapper
++ Other > MathCAD
+
 ### programming skills
 + MATLAB  🌟🌟🌟
 + JULIA   🌟🌟
 + PYTHON  🌟
++ JUPITER NOTEBOOKS 🌟
 + OPENSEES  🌟
++ MATHEMATICA 🌟
 
 ### tools I like to use
 + obsidian + notion
@@ -48,3 +57,4 @@ Here are some ideas to get you started:
 + zephyrus G14
 + logitech G604
 + LG 27QN880-B
++ DJI Mavic Mini 2
