@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 + JUPITER NOTEBOOKS 🌟
 + OPENSEES  🌟
 + MATHEMATICA 🌟
++ + MATHCAD 🌟
 
 ### tools I like to use
 + obsidian + notion
@@ -47,11 +48,7 @@ Here are some ideas to get you started:
 + espanso
 + everything > https://www.voidtools.com/
 + carnac > record keystrokes > http://code52.org/carnac/
-+ lightshot and sharex
-+ bitwarden + authy
 + f.lux
-+ brave
-+ eternl
 
 ### hardware
 + zephyrus G14
