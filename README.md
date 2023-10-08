@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 -->
 
 ### Engineering software
-+ Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA
-+ Civil3D, Revit
++ Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA https://www.rocscience.com
++ Civil3D
 + ETABS, SAP2000
 + QGIS, Global Mapper
 + Other > MathCAD
@@ -38,18 +38,20 @@ Here are some ideas to get you started:
 + JULIA   🌟🌟
 + PYTHON  🌟
 + JUPITER NOTEBOOKS 🌟
-+ OPENSEES  🌟
++ OPENSEES 🌟
 + MATHEMATICA 🌟
-+ + MATHCAD 🌟
++ MATHCAD 🌟
 
 ### tools I like to use
-+ obsidian + notion
++ obsidian > https://obsidian.md
++ notion
 + VSCODE
-+ $\LaTeX$
-+ espanso
++ $\LaTeX$ 
++ espanso > https://espanso.org
 + everything > https://www.voidtools.com/
 + carnac > record keystrokes > http://code52.org/carnac/
-+ f.lux
++ f.lux > https://justgetflux.com
++ imagej > https://imagej.nih.gov/ij/download.html
 
 ### hardware
 + zephyrus G14
