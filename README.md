@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 + Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA https://www.rocscience.com
 + Civil3D
 + ETABS, SAP2000
-+ QGIS, Global Mapper
-+ Other > MathCAD
++ QGIS
++ MathCAD
 
-### programming skills
+### Programming skills
 + MATLAB  🌟🌟🌟
 + JULIA   🌟🌟
 + PYTHON  🌟
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 + MATHEMATICA 🌟
 + MATHCAD 🌟
 
-### tools I like to use
-+ obsidian > https://obsidian.md
-+ notion
+### Tools I like to use
++ Obsidian > https://obsidian.md
++ Notion
 + VSCODE
 + $\LaTeX$ 
 + espanso > https://espanso.org
