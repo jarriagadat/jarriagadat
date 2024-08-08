@@ -12,6 +12,7 @@ Welcome to my github page.
 - GITBUB > https://github.com/jarriagadat/
 - ORCID > https://orcid.org/0000-0002-2742-7421
 - RESEARCHGATE > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
+- Google Scholar > https://scholar.google.com/citations?hl=es&user=lzoXLpMAAAAJ&view_op=list_works&authuser=1&gmla=AETOMgG0cdXl5mq0SYgm437spw5j0DrKQMP_VM99Iu0OB8qweosOa0Na-N5fs7Sc4s3sVVawYtnw-GAukHz6I_8KHz-vRhkLHK-ki-0N
 
 
 
@@ -28,10 +29,13 @@ Here are some ideas to get you started:
 
 ### Engineering software
 + Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA https://www.rocscience.com
++ Abaqus
++ Deepsoil
++ OpenSees
++ Geopsy
 + Civil3D
 + ETABS, SAP2000
 + QGIS
-+ MathCAD
 
 ### Programming skills
 + MATLAB  🌟🌟🌟
