@@ -3,6 +3,7 @@ Welcome to my github page.
 - 🔭 I’m currently working on a Master's Degree in Earthquake Engineering, USFX-UV. 2021-2023
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
+- RAspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
 
 ### work
 - 🧪 Soil Mechanics Lab at the School of Civil Engineering, UV. https://civil.uv.cl/escuela/funcionarios/2-sin-categoria/138-jorge-arriagada-triana
