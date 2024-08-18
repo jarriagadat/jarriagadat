@@ -46,11 +46,14 @@ Here are some ideas to get you started:
 + OPENSEES 🌟
 + MATHEMATICA 🌟
 + MATHCAD 🌟
++ LATEX
++ QUARTO
++ COSMA
++ QUARTZ
 
 ### Tools I like to use
 + Obsidian > https://obsidian.md
 + VSCODE
-+ $\LaTeX$ 
 + espanso > https://espanso.org
 + everything > https://www.voidtools.com/
 + carnac > record keystrokes > http://code52.org/carnac/
