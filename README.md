@@ -64,5 +64,7 @@ Here are some ideas to get you started:
 
   ### 3 quotes
 «Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» ― Richard Feynmann
+
 «On the overwhelming majority of jobs no more than an approximate forecast is needed, and if such a forecast cannot be made by simple means it cannot be made at all» ― Karl Von Terzaghi
+
 «The responsibility of the design engineer is to judge soundly rather than to compute accurately» ― Evert Hoek
