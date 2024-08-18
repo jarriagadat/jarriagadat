@@ -1,7 +1,7 @@
 ### Hola - Hello there👋
 Welcome to my github page.
 - 🏗️ I'm a Geotechnical engineer
-- 🔭 I’m currently working on a Master's Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics, USFX-UV. 2021-2023
+- 🔭 I’m currently working on a Master's Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics, USFX-UV, Chile. 2021-2023
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 - Raspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
