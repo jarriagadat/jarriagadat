@@ -13,6 +13,7 @@ Welcome to my github page.
 ### links
 - GITHUB > https://github.com/jarriagadat/
 - ORCID > https://orcid.org/0000-0002-2742-7421
+- Web of Science Researcher ID: ACB-9833-2022
 - RESEARCHGATE > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
 - Google Scholar > https://scholar.google.com/citations?hl=es&user=lzoXLpMAAAAJ&view_op=list_works&authuser=1&gmla=AETOMgG0cdXl5mq0SYgm437spw5j0DrKQMP_VM99Iu0OB8qweosOa0Na-N5fs7Sc4s3sVVawYtnw-GAukHz6I_8KHz-vRhkLHK-ki-0N
 
