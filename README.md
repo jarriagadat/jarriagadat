@@ -67,9 +67,11 @@ Here are some ideas to get you started:
 + LG 27QN880-B
 + DJI Mavic Mini 2
 
-  ### 3 quotes
-«Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» ― Richard Feynmann
+  ### 4 quotes
+«Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» - Feynmann, R.
 
-«On the overwhelming majority of jobs no more than an approximate forecast is needed, and if such a forecast cannot be made by simple means it cannot be made at all» ― Karl Von Terzaghi
+«On the overwhelming majority of jobs no more than an approximate forecast is needed, and if such a forecast cannot be made by simple means it cannot be made at all» ― Terzaghi, K.
 
-«The responsibility of the design engineer is to judge soundly rather than to compute accurately» ― Evert Hoek
+«The responsibility of the design engineer is to judge soundly rather than to compute accurately» ― Hoek, E.
+
+«The scientist's job is to explain natural phenomena. The engineer's is to deal with them wether they are adequately explained or not» Vick
