@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 + LG 27QN880-B
 + DJI Mavic Mini 2
 
-<iframe src="https://zippy-draw-578.notion.site/ebd/199d62f562ea804ab189fc168b8964a4?v=199d62f562ea803aa4fa000cdc5295c5" width="100%" height="600" frameborder="0" allowfullscreen />
+https://zippy-draw-578.notion.site/199d62f562ea804ab189fc168b8964a4?v=199d62f562ea803aa4fa000cdc5295c5
 
   ### 4 quotes
 «Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» - Feynmann, R.
