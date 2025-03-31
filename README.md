@@ -1,7 +1,7 @@
 ### Hola - Hello there👋
 Welcome to my github page.
 - 🏗️ I'm a Geotechnical engineer
-- 🔭 I’m currently working on a Master's Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics, USFX-UV, Chile. 2021-2023
+- 🔭 I hold a Master's Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics, joint degree between Universidad de Valparaíso, Chile and the Universidad San Francisco Xavier de Chiquisaca, Bolivia.
 - 📣 My personal website is https://jarriagadat.github.io/
 - 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 - Raspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
@@ -14,7 +14,7 @@ Welcome to my github page.
 - GITHUB > https://github.com/jarriagadat/
 - ORCID > https://orcid.org/0000-0002-2742-7421
 - Web of Science Researcher ID: ACB-9833-2022
-- RESEARCHGATE > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
+- ResearchGate > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
 - Google Scholar > https://scholar.google.com/citations?hl=es&user=lzoXLpMAAAAJ&view_op=list_works&authuser=1&gmla=AETOMgG0cdXl5mq0SYgm437spw5j0DrKQMP_VM99Iu0OB8qweosOa0Na-N5fs7Sc4s3sVVawYtnw-GAukHz6I_8KHz-vRhkLHK-ki-0N
 
 <!--
