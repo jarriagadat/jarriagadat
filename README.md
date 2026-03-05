@@ -1,14 +1,35 @@
-### Hola - Hello there👋
-Welcome to my github page.
-- 🏗️ I'm a Geotechnical engineer
-- 🔭 I hold a Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. The program has a joint degree between the Universidad de Valparaíso, Chile and the Universidad San Francisco Xavier de Chiquisaca, Bolivia.
-- 📣 My personal website is https://jarriagadat.github.io/
-- 💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
-- Raspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
+### Hola 👋 Welcome to my github page.
+📣 My personal website is https://jarriagadat.github.io/
+### About me
+Lab Manager @ Escuela de Ingeniería Civil · Universidad de Valparaíso · Chile
+PhD Student in Engineering — Geotechnical Engineering 🪨
 
-### work
+## Research
++ Civil engineer based in Valparaíso, Chile.
+🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnics
+🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
+📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics.Joint degree between UV-USFX.
+
+## work
 - 🧪 Laboratory of Civil Engineering, School of Civil Engineering, Engineering Faculty, Universidad de Valparaiso, Chile. https://civil.uv.cl/escuela/funcionarios/2-sin-categoria/138-jorge-arriagada-triana
 - 🌱 Cofounder of GGMOS, the Geomechanical and Underground Works Group at the School of Civil Engineering, Universidad de Valparaiso, Chile https://ggmosuv.github.io/
+
+## community
+💻 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
+
++ I believe in open, reproducible science and try to bring that into everything I build.
++ Raspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
+
+https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+
+🔬 Research Interests
++ Geotechnical engineering & soil-structure interaction
++ Numerical modeling of geomaterials
++ Computational methods in civil engineering
++ Open-source tools for geotechnical analysis
+
+
 
 ### links
 - GITHUB > https://github.com/jarriagadat/
@@ -28,29 +49,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JetGrouting
 -->
 
-### Engineering software
-+ Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA https://www.rocscience.com 🌟🌟🌟
+### Numerical Methods
+Finite Element Method (FEM)
+Geotechnical numerical modeling
+### Industry Software
+Rocscience Suite — RS2 · RS3 · Slide · Settle3
++ Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA
 + Abaqus
-+ OPTUM G2
-+ Deepsoil
-+ OpenSees
-+ Geopsy
-+ Civil3D
-+ QGIS
-+ ETABS, SAP2000
-
-### Programming skills
-+ MATLAB  🌟🌟🌟
-+ JULIA   🌟🌟
-+ PYTHON  🌟
-+ JUPITER NOTEBOOKS 🌟
-+ OPENSEES 🌟
-+ MATHEMATICA 🌟
-+ MATHCAD 🌟
-+ LATEX
-+ QUARTO
-+ COSMA
-+ QUARTZ
++ OPTUM CE+
 
 ### Tools I like to use
 + Obsidian > https://obsidian.md
@@ -61,13 +67,6 @@ Here are some ideas to get you started:
 + f.lux > https://justgetflux.com
 + imagej > [https://imagej.nih.gov/ij/download.html](https://imagej.net)
 
-### hardware
-+ Zephyrus G14
-+ Logitech G604
-+ LG 27QN880-B
-+ DJI Mavic Mini 2
-
-https://zippy-draw-578.notion.site/199d62f562ea804ab189fc168b8964a4?v=199d62f562ea803aa4fa000cdc5295c5
 
   ### 4 quotes
 «Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» - Feynmann, R.
