@@ -1,10 +1,10 @@
 # Hola 👋 Welcome to my github page.
 + 📣 My personal website is https://jarriagadat.github.io/
 + 🚧🚧🚧under construction... 🚧🚧🚧
++ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile.
 
 ## about me
-+ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile.
-+ C.Eng. based in Valparaíso, Chile.
++ ⛑️ C.Eng. based in Valparaíso, Chile.
 + 🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
 + 📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
 
