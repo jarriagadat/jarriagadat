@@ -13,7 +13,7 @@
 📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
 
 ## work
-- 🧪 Laboratory of Civil Engineering, School of Civil Engineering, Engineering Faculty, Universidad de Valparaiso, Chile. https://civil.uv.cl/escuela/funcionarios/2-sin-categoria/138-jorge-arriagada-triana
+- 🧪 Laboratory of Civil Engineering, School of Civil Engineering, Engineering Faculty, Universidad de Valparaiso, Chile. https://civil.uv.cl/escuela/funcionarios?view=article&id=138:jorge-arriagada-triana&catid=2
 - 🌱 Cofounder of GGMOS, the Geomechanical and Underground Works Group at the School of Civil Engineering, Universidad de Valparaiso, Chile https://ggmosuv.github.io/
 
 ## community
