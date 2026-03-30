@@ -3,13 +3,8 @@
 + 🚧🚧🚧under construction... 🚧🚧🚧
 
 ## about me
-- C.Eng, M.Eng.
-- PhD Researcher in Engineering with focus on Geotechnical Engineering @ Universidad de Valparaíso, Chile
-
-
-## research
-+ Civil engineer based in Valparaíso, Chile.
-🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnics
+🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile
++ C.Eng. based in Valparaíso, Chile.
 🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
 📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
 
