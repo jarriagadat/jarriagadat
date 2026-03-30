@@ -1,14 +1,15 @@
 ### Hola 👋 Welcome to my github page.
 📣 My personal website is https://jarriagadat.github.io/
 ### About me
-Lab Manager @ Escuela de Ingeniería Civil · Universidad de Valparaíso · Chile
-PhD Student in Engineering — Geotechnical Engineering 🪨
+- PhD Researcher in Engineering with focus on Geotechnical Engineering @ Universidad de Valparaíso · Chile
+- Head of Lab of the School of Civil Engineering, Faculty of Engineering @ Escuela de Ingeniería Civil, Universidad de Valparaíso · Chile
+
 
 ## Research
 + Civil engineer based in Valparaíso, Chile.
 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnics
 🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
-📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics.Joint degree between UV-USFX.
+📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
 
 ## work
 - 🧪 Laboratory of Civil Engineering, School of Civil Engineering, Engineering Faculty, Universidad de Valparaiso, Chile. https://civil.uv.cl/escuela/funcionarios/2-sin-categoria/138-jorge-arriagada-triana
