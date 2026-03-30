@@ -34,7 +34,7 @@ https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoCol
 ### links
 - GITHUB > https://github.com/jarriagadat/
 - ORCID > https://orcid.org/0000-0002-2742-7421
-- Web of Science Researcher ID: ACB-9833-2022
+- WOS > Web of Science Researcher ID: ACB-9833-2022
 - ResearchGate > https://www.researchgate.net/profile/Jorge-Arriagada-Triana
 - Google Scholar > https://scholar.google.com/citations?hl=es&user=lzoXLpMAAAAJ&view_op=list_works&authuser=1&gmla=AETOMgG0cdXl5mq0SYgm437spw5j0DrKQMP_VM99Iu0OB8qweosOa0Na-N5fs7Sc4s3sVVawYtnw-GAukHz6I_8KHz-vRhkLHK-ki-0N
 
@@ -55,8 +55,8 @@ Geotechnical numerical modeling
 ### Industry Software
 Rocscience Suite — RS2 · RS3 · Slide · Settle3
 + Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA
-+ Abaqus
 + OPTUM CE+
++ Abaqus
 
 ### Tools I like to use
 + Obsidian > https://obsidian.md
