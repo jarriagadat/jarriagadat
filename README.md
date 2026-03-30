@@ -49,16 +49,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JetGrouting
 -->
 
-### Numerical Methods
+### numerical Methods
 Finite Element Method (FEM)
 Geotechnical numerical modeling
-### Industry Software
+### industry Software
 Rocscience Suite — RS2 · RS3 · Slide · Settle3
 + Rocscience Suite > RS2, Slide2, Settle3, RSPile, Dips, RocFall, RSDATA
 + OPTUM CE+
 + Abaqus
-
-### Tools I like to use
+### tools I like to use
 + Obsidian > https://obsidian.md
 + VSCODE
 + espanso > https://espanso.org
@@ -66,9 +65,7 @@ Rocscience Suite — RS2 · RS3 · Slide · Settle3
 + carnac > record keystrokes > http://code52.org/carnac/
 + f.lux > https://justgetflux.com
 + imagej > [https://imagej.nih.gov/ij/download.html](https://imagej.net)
-
-
-  ### 4 quotes
+### 4 quotes
 «Study hard what interests you the most in the most undisciplined, irreverent and original manner possible» - Feynmann, R.
 
 «On the overwhelming majority of jobs no more than an approximate forecast is needed, and if such a forecast cannot be made by simple means it cannot be made at all» ― Terzaghi, K.
