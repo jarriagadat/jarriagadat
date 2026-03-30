@@ -1,11 +1,11 @@
 ### Hola 👋 Welcome to my github page.
 📣 My personal website is https://jarriagadat.github.io/
-### About me
+### about me
 - PhD Researcher in Engineering with focus on Geotechnical Engineering @ Universidad de Valparaíso · Chile
 - Head of Lab of the School of Civil Engineering, Faculty of Engineering @ Escuela de Ingeniería Civil, Universidad de Valparaíso · Chile
 
 
-## Research
+## research
 + Civil engineer based in Valparaíso, Chile.
 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnics
 🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
