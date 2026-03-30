@@ -3,10 +3,10 @@
 + 🚧🚧🚧under construction... 🚧🚧🚧
 
 ## about me
-🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile
++ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile.
 + C.Eng. based in Valparaíso, Chile.
-🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
-📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
++ 🏗️ Working on numerical modeling, ground behavior, and computational tools applied to geotechnical problems
++ 📎Master Degree in Earthquake Engineering with focus on Geotechnical Earthquake Engineering and Rock Mechanics. Joint degree between UV-USFX.
 
 ## work
 - 🧪 [Head of Lab of the School of Civil Engineering, Faculty of Engineering @ Escuela de Ingeniería Civil, Universidad de Valparaíso, Chile](https://civil.uv.cl/escuela/funcionarios?view=article&id=138:jorge-arriagada-triana&catid=2) [www.civil.uv.cl](www.civil.uv.cl)
