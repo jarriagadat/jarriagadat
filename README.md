@@ -1,7 +1,7 @@
 # Hola 👋 Welcome to my github page.
 + 📣 My personal website is https://jarriagadat.github.io/
 + 🚧🚧🚧under construction... 🚧🚧🚧
-+ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ @ Universidad de Valparaíso, Chile.
++ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ Universidad de Valparaíso, Chile in a joint program with @ Universidad de Tarapaca, Chile
 
 ## about me
 + ⛑️ C.Eng. based in Valparaíso, Chile.
