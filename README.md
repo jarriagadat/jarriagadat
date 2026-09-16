@@ -46,7 +46,7 @@
 
 ---
 
-### 💬 Favorite Perspectives on Engineering
+### 💬 Thoughts and Perspectives on Engineering
 
 > *"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."*  
 > — **R. Feynman**
