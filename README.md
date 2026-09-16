@@ -1,6 +1,15 @@
+# Hola 👋 Welcome to my GitHub profile!
+
+<p align="left">
+  <a href="https://jarriagadat.github.io/"><img src="https://shields.io" alt="Website"></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0002-2742-7421"><img src="https://shields.io" alt="ORCID"></a>
+</p>
+
+
 # Hola 👋 Welcome to my github page.
 + 📣 My personal website is https://jarriagadat.github.io/
-+ 🔭 I'm currently pursuing a PhD in Engineering with a focus on geotechnical engineeering @ Universidad de Valparaíso, Chile in a joint program with @ Universidad de Tarapaca, Chile
++ 🔭 I'm currently pursuing a PhD in Engineering with a focus in geotechnical engineeering @ Universidad de Valparaíso, Chile in a joint program with @ Universidad de Tarapaca, Chile
 
 ## About me
 + ⛑️ C.Eng. based in Valparaíso, Chile.
@@ -11,7 +20,6 @@
 - 🌱 Cofounder of GGMOS, the Geomechanical and Underground Works Group at the School of Civil Engineering, Universidad de Valparaiso, Chile https://ggmosuv.github.io/
 
 ## Community
-Member of the 
 Member of the Civil Engineering Open Source Community at CIVILS.AI  https://civils.ai/
 Raspberry Shake 4D > Shake: R70F6 - Channel: EHZ > https://dataview.raspberryshake.org/#/AM/R70F6/00/EHZ?streaming=on
 
