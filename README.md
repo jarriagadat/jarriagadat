@@ -35,11 +35,14 @@
 
 ---
 
-### 📚 Academic & Research Networks
-*   [**Google Scholar**](https://scholar.google.com/citations?hl=es&user=lzoXLpMAAAAJ)
-*   [**ResearchGate Profile**](https://www.researchgate.net/profile/Jorge-Arriagada-Triana)
-*   **Web of Science Researcher ID:** `ACB-9833-2022`
-*   **Memberships:** SOCHIGE (Chilean Society of Geotechnical Engineering) & SCMR (Chilean Society of Rock Mechanics)
+### 🌐 Academic & Professional Networks
+*   🌐 **Personal Portfolio:** [jarriagadat.github.io](https://github.io)
+*   💼 **LinkedIn Profile:** [Jorge A. Arriagada Triana](https://linkedin.com)
+*   🆔 **ORCID iD:** [0000-0002-2742-7421](https://orcid.org)
+*   🎓 **Google Scholar:** [Jorge A. Arriagada Triana](https://google.com)
+*   🔬 **ResearchGate:** [Profile Link](https://researchgate.net)
+*   📊 **Web of Science:** `Researcher ID: ACB-9833-2022`
+
 
 ---
 
