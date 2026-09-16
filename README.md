@@ -7,6 +7,7 @@
 </p>
 
 
+
 # Hola 👋 Welcome to my github page.
 + 📣 My personal website is https://jarriagadat.github.io/
 + 🔭 I'm currently pursuing a PhD in Engineering with a focus in geotechnical engineeering @ Universidad de Valparaíso, Chile in a joint program with @ Universidad de Tarapaca, Chile
