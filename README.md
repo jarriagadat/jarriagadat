@@ -13,7 +13,7 @@
 *   **Head of Laboratory & Lecturer** | School of Civil Engineering, Universidad de Valparaíso, Chile.
 *   **Co-founder** | **[GGMOS UV](https://ggmosuv.github.io/)** (Grupo de Geomecánica y Obras Subterráneas).
 
-### 🏆 Global Engagement & Recognitions
+### 🌎 Global Engagement & Recognitions
 *   🥇 **Recipient of the 2026 ISSMGE Outstanding Public Relations Award** in Geo-engineering for technical outreach across South America.
 *   🇨🇱 **Technical Outreach Committee Member** | **ISSMGE South America** (`@ISSMGE-SA`).
 *   🚀 **Project Geopostales (HTC-103)** is permanently housed in the **ISSMGE Heritage Time Capsule** at the Terzaghi Archive, **TU Wien, Austria**.
